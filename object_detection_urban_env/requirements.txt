@@ -2,6 +2,6 @@ Cython==0.29.21
 jupyter==1.0.0
 matplotlib==3.0.3
 Pillow==7.2.0
-ray
+ray==2.2.0
 waymo-open-dataset-tf-2-5-0==1.4.0
 tensorflow-object-detection-api
